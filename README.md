@@ -1,2 +1,2 @@
-# template
-A general template repo
+# Ribelo
+A [Revolt](https://revolt.chat) library for Rust
